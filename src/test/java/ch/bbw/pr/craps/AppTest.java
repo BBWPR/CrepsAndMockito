@@ -1,4 +1,4 @@
-package ch.bbw.pr.creps;
+package ch.bbw.pr.craps;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
