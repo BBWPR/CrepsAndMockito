@@ -1,4 +1,4 @@
-package mokitoDiceDemo.bbw.ch;
+package ch.bbw.pr.craps;
 
 import java.util.Random;
 
